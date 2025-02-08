@@ -109,7 +109,6 @@ li::before {
 
 @media only screen and (max-width: 480px) {
     .todo_list {
-/*         margin: 12% auto 0; */
         width: 80%;
     }
     .submitButton {
